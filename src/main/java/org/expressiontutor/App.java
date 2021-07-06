@@ -1,5 +1,7 @@
 package org.expressiontutor;
 
+import org.expressiontutor.diagram.TreeDiagram;
+
 public class App {
     public static void main(final String[] args) {
         TreeDiagram t1 = new TreeDiagram(null, null, null);

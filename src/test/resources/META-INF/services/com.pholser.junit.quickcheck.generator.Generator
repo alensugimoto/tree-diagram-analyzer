@@ -1,0 +1,8 @@
+org.expressiontutor.diagram.EdgeGenerator
+org.expressiontutor.diagram.FragmentGenerator
+org.expressiontutor.diagram.FragNameGenerator
+org.expressiontutor.diagram.HoleGenerator
+org.expressiontutor.diagram.NodeGenerator
+org.expressiontutor.diagram.PlugGenerator
+org.expressiontutor.diagram.TokenGenerator
+org.expressiontutor.diagram.TreeDiagramGenerator
